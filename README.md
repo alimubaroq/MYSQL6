@@ -4,8 +4,8 @@
 ## Profil
 | Variable | Isi |
 | -------- | --- |
-| **Nama** | ALI MUBAROQ |
-| **NIM** | 312310452 |
+| **Nama** | ARIQ IBTIHAL FIRDAUS |
+| **NIM** | 312310446 |
 | **Kelas** | TI.23.A5 |
 | **Mata Kuliah** | Basis data |
 #
@@ -31,7 +31,7 @@ Sebuah perusahaan ingin membuat sistem untuk pengeloalaan data karyawan pada per
 Buatlah desain databasenya (ER-Diagram), beserta tabel datanya ?
 
 # ERD
-![Alt text](gambar/database.png)
+![Alt text](gambar/database1.png)
 
 # PENGOLAHAN DATA KARYAWAN
 # Tabel Departement
